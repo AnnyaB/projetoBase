@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\HelperStockBeta",
+    "\\HelperStockBeta\\HelperStockBeta.Domain",
+    "\\HelperStockBeta\\HelperStockBeta.Infra.Data"
   ],
   "PreviewInSolutionExplorer": false
 }
