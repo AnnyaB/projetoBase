@@ -3,9 +3,10 @@ using HelperStockBeta.Domain.Entities;
 
 namespace HelperStockBeta.Domain.Test
 {
-    #region Casos de testes positivos
+    
     public class CategoryUnitTestBase
     {
+        #region Casos de testes positivos
         [Fact(DisplayName = "Category name is not null")]
         public void CreateCategory_WithValidParemeters_ResultValid()
         {

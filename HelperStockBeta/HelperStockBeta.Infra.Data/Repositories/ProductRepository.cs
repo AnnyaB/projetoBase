@@ -3,6 +3,7 @@ using HelperStockBeta.Domain.Interface;
 using HelperStockBeta.Infra.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
+
 namespace HelperStockBeta.Infra.Data.Repositories
 {
     public class ProductRepository : IProductRepository
